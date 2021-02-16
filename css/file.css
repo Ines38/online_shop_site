@@ -1,0 +1,40 @@
+/*nav in same line*/
+nav div ul{
+    display: inline-block;
+    
+}
+nav{
+    background-color: rgb(87, 133, 177);
+}
+.titre{
+    color: rgb(96, 135, 221) ;
+    background-color: $blue-700;
+}
+
+#mynavbar{
+    background-color: rgb(99, 151, 199);
+}
+#navbarNavDropdown{
+    padding: 35px;
+    text-align: center;
+    
+}
+
+/*nav ul li::after{
+    content: "|";
+}
+nav ul li:last-child::after{
+    content: "";
+}*/
+
+article{
+    padding: 2%;
+    background-color:bisque;
+    border: 1px solid #ccc;
+    margin: 20px;
+    
+}
+
+header{
+    margin-top: 5%;
+}
